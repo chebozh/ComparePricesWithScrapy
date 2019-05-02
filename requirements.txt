@@ -1,0 +1,2 @@
+Scrapy==1.6.0
+setuptools==38.2.3
